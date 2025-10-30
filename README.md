@@ -15,10 +15,6 @@ O projeto contém a implementação manual dos seguintes algoritmos de ordenaç�
 * **Selection Sort**
 * **Cocktail Sort**
 
-> Nenhum dos métodos faz uso de rotinas prontas da linguagem (como `Arrays.sort()`, `ArrayList`, etc).
-> Todas as soluções foram construídas apenas com estruturas de controle e dados primitivas (`for`, `while`, `if`, `int[]`).
-
-
 
 ##  Resultados Obtidos
 
